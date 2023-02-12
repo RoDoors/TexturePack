@@ -1,32 +1,57 @@
 {
 	"music.lobby.loop": {
+		"subtitle": "custom.music.lobby.loop",
 		"sounds": [
-			"music/lobby/loop"
+			{
+				"name": "music/lobby/loop",
+				"preload": true
+			}
 		]
 	},
 	"music.lobby.end": {
+		"subtitle": "custom.music.lobby.end",
 		"sounds": [
-			"music/lobby/end"
+			{
+				"name": "music/lobby/end",
+				"preload": true
+			}
 		]
 	},
 	"music.prerun.elevatorjam": {
+		"subtitle": "custom.music.prerun.elevatorjam",
 		"sounds": [
-			"music/prerun/elevatorjam"
+			{
+				"name": "music/prerun/elevatorjam",
+				"preload": true
+			}
 		]
 	},
 	"music.seek.damnbeats": {
+		"subtitle": "custom.music.seek",
 		"sounds": [
-			"music/seek/damnbeats"
+			{
+				"name": "music/seek/damnbeats",
+				"preload": true
+			}
 		]
 	},
 	"music.jeff.jeff": {
+		"subtitle": "custom.music.jeff",
 		"sounds": [
-			"music/jeff/jeff"
+			{
+				"name": "music/jeff/jeff",
+				"preload": true,
+				"attenuation_distance": 16
+			}
 		]
 	},
 	"music.escape.ending": {
+		"subtitle": "custom.music.ending",
 		"sounds": [
-			"music/escape/ending"
+			{
+				"name": "music/escape/ending",
+				"preload": true
+			}
 		]
 	}
 }
