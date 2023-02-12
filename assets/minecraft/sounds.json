@@ -18,5 +18,15 @@
 		"sounds": [
 			"music/seek/damnbeats"
 		]
+	},
+	"music.jeff.jeff": {
+		"sounds": [
+			"music/jeff/jeff"
+		]
+	},
+	"music.escape.ending": {
+		"sounds": [
+			"music/escape/ending"
+		]
 	}
 }
