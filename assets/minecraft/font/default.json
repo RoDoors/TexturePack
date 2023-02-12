@@ -7,6 +7,13 @@
             "height": 9,
             "chars": ["\uE000"]
         },
+		{
+            "type": "bitmap",
+            "file": "minecraft:custom/knob.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE001"]
+        },
         {
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
