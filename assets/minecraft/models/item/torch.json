@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":100011}, "model": "minecraft:custom/lighter"},
-	{"predicate": {"custom_model_data":100100}, "model": "minecraft:custom/lighter_off"}
+	{"predicate": {"custom_model_data":100100}, "model": "minecraft:custom/lighter_off"},
+	{"predicate": {"custom_model_data":100101}, "model": "minecraft:custom/flashlight"}
   ]
 }
