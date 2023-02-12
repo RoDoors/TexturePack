@@ -1,0 +1,22 @@
+{
+	"music.lobby.loop": {
+		"sounds": [
+			"music/lobby/loop"
+		]
+	},
+	"music.lobby.end": {
+		"sounds": [
+			"music/lobby/end"
+		]
+	},
+	"music.prerun.elevatorjam": {
+		"sounds": [
+			"music/prerun/elevatorjam"
+		]
+	},
+	"music.seek.damnbeats": {
+		"sounds": [
+			"music/seek/damnbeats"
+		]
+	}
+}
