@@ -1,0 +1,27 @@
+name: Build And Push
+on:
+  workflow_dispatch:
+jobs:
+  zip-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: vimtor/action-zip@v1
+        with:
+          files: assets/ pack.mcmeta pack.png
+          dest: ./build/Pack.zip
+          recursive: true
+      - name: Update hash.txt
+        run: |
+          sha1sum ./build/Pack.zip > ./build/hash.txt
+      - name: Push
+        run: |
+          git config --global user.email "githubactions@github.com"
+          git config --global user.name "Github-Actions[bot]"
+          git status
+          git add ./build/Pack.zip
+          git add ./build/hash.txt
+          git commit -m "Update"
+          git push origin main
