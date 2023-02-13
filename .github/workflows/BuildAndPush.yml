@@ -22,7 +22,7 @@ jobs:
           git config --global user.email "githubactions@github.com"
           git config --global user.name "Github-Actions[bot]"
           git status
-          git add ./build/Pack.zip
-          git add ./build/hash.txt
-          git commit -f -m "Update"
+          git add -f ./build/Pack.zip
+          git add -f ./build/hash.txt
+          git commit -m "Update"
           git push origin main
