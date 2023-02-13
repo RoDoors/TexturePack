@@ -18,10 +18,11 @@ jobs:
           sha1sum ./build/Pack.zip > ./build/hash.txt
       - name: Push
         run: |
+          git config advice.addIgnoredFile false
           git config --global user.email "githubactions@github.com"
           git config --global user.name "Github-Actions[bot]"
           git status
           git add ./build/Pack.zip
           git add ./build/hash.txt
-          git commit -m "Update"
+          git commit -f -m "Update"
           git push origin main
