@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:custom/item/vitamins2",
-		"particle": "minecraft:custom/item/vitamins2"
+		"0": "rodoors:item/vitamins2",
+		"particle": "rodoors:item/vitamins2"
 	},
 	"elements": [
 		{

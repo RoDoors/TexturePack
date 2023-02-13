@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:custom/lighter",
-  "textures": {
-    "0": "minecraft:custom/item/lighter_off",
-	"particle": "minecraft:custom/item/lighter_off"
-  }
-}

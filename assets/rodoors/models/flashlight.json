@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/item/flashlight",
-		"particle": "custom/item/flashlight"
+		"0": "rodoors:item/flashlight",
+		"particle": "rodoors:item/flashlight"
 	},
 	"elements": [
 		{

@@ -3,7 +3,7 @@
 		"subtitle": "custom.music.lobby.loop",
 		"sounds": [
 			{
-				"name": "music/lobby/loop",
+				"name": "rodoors:music/lobby/loop",
 				"preload": true
 			}
 		]
@@ -12,7 +12,7 @@
 		"subtitle": "custom.music.lobby.end",
 		"sounds": [
 			{
-				"name": "music/lobby/end",
+				"name": "rodoors:music/lobby/end",
 				"preload": true
 			}
 		]
@@ -21,27 +21,26 @@
 		"subtitle": "custom.music.prerun.elevatorjam",
 		"sounds": [
 			{
-				"name": "music/prerun/elevatorjam",
+				"name": "rodoors:music/prerun/elevatorjam",
 				"preload": true
 			}
 		]
 	},
-	"music.seek.damnbeats": {
+	"music.seek": {
 		"subtitle": "custom.music.seek",
 		"sounds": [
 			{
-				"name": "music/seek/damnbeats",
+				"name": "rodoors:music/seek/damnbeats",
 				"preload": true
 			}
 		]
 	},
-	"music.jeff.jeff": {
+	"music.jeff": {
 		"subtitle": "custom.music.jeff",
 		"sounds": [
 			{
-				"name": "music/jeff/jeff",
-				"preload": true,
-				"attenuation_distance": 16
+				"name": "rodoors:music/jeff/jeff",
+				"preload": true
 			}
 		]
 	},
@@ -49,7 +48,7 @@
 		"subtitle": "custom.music.ending",
 		"sounds": [
 			{
-				"name": "music/escape/ending",
+				"name": "rodoors:music/escape/ending",
 				"preload": true
 			}
 		]

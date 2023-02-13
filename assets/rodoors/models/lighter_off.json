@@ -1,0 +1,7 @@
+{
+  "parent": "rodoors:lighter",
+  "textures": {
+    "0": "rodoors:item/lighter_off",
+	"particle": "rodoors:item/lighter_off"
+  }
+}
