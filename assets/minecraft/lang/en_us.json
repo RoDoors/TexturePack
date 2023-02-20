@@ -1,4 +1,10 @@
 {
+  "custom.sfx.seek.jumpscare": "Seek Feasts",
+  "custom.sfx.seek.knock": "Seek Knocks",
+  "custom.sfx.seek.scream": "Seek Screams",
+  "custom.sfx.seek.seek_footsteps_close": "Heavy Footsteps",
+  "custom.sfx.seek.seek_footsteps_far": "Heavy Footsteps",
+
   "custom.music.lobby.loop": "Dawn of the Doors",
   "custom.music.lobby.end": "Dawn of the Doors Ending",
   

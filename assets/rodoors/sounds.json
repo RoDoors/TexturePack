@@ -1,4 +1,49 @@
 {
+	"sfx.seek.jumpscare": {
+		"subtitle": "custom.sfx.seek.jumpscare",
+		"sounds": [
+			{
+				"name": "rodoors:sfx/seek/jumpscare",
+				"preload": true
+			}
+		]
+	},
+	"sfx.seek.knock": {
+		"subtitle": "custom.sfx.seek.knock",
+		"sounds": [
+			{
+				"name": "rodoors:sfx/seek/knock",
+				"preload": true
+			}
+		]
+	},
+	"sfx.seek.scream": {
+		"subtitle": "custom.sfx.seek.scream",
+		"sounds": [
+			{
+				"name": "rodoors:sfx/seek/scream",
+				"preload": true
+			}
+		]
+	},
+	"sfx.seek.seek_footsteps_close": {
+		"subtitle": "custom.sfx.seek.seek_footsteps_close",
+		"sounds": [
+			{
+				"name": "rodoors:sfx/seek/seek_footsteps_close",
+				"preload": true
+			}
+		]
+	},
+	"sfx.seek.seek_footsteps_far": {
+		"subtitle": "custom.sfx.seek.seek_footsteps_far",
+		"sounds": [
+			{
+				"name": "rodoors:sfx/seek/seek_footsteps_far",
+				"preload": true
+			}
+		]
+	},
 	"music.lobby.loop": {
 		"subtitle": "custom.music.lobby.loop",
 		"sounds": [
