@@ -1,67 +1,78 @@
 {
-    "providers": [
-        {
-            "type": "bitmap",
-            "file": "rodoors:revive.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": ["\uE000"]
-        },
-		{
-            "type": "bitmap",
-            "file": "rodoors:knob.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": ["\uE001"]
-        },
-		{
-            "type": "bitmap",
-            "file": "rodoors:gui/battery_meter_on.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE002"]
-        },
-		{
-            "type": "bitmap",
-            "file": "rodoors:gui/battery_meter_off.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE003"]
-        },
-		{
-            "type": "bitmap",
-            "file": "rodoors:rush.png",
-            "ascent": 128,
-            "height": 128,
-            "chars": ["\uE004"]
-        },
-		{
-            "type": "bitmap",
-            "file": "rodoors:gui/health.png",
-            "ascent": -19,
-            "height": 18,
-            "chars": [
-				"\uE005", "\uE006",
-				"\uE007", "\uE008", "\uE009",
-				"\uE00A", "\uE00B", "\uE00C",
-				"\uE00D", "\uE00E", "\uE00F",
-				"\uE011", "\uE012", "\uE013",
-				"\uE014", "\uE015", "\uE016"
-			]
-        },
-		{
-			"type": "bitmap",
-			"file": "rodoors:gui/health_background.png",
-			"ascent": -19,
-			"height": 18,
-			"chars": ["\uE010"]
-		},
-        {
-            "type": "ttf",
-            "file": "rodoors:negative_spaces.ttf",
-            "shift": [0.0, 0.0],
-            "size": 10.0,
-            "oversample": 1.0
-        }
-    ]
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "rodoors:revive.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rodoors:knob.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rodoors:gui/battery_meter_on.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rodoors:gui/battery_meter_off.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rodoors:rush.png",
+      "ascent": 128,
+      "height": 128,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rodoors:gui/health.png",
+      "ascent": -19,
+      "height": 18,
+      "chars": [
+        "\uE005",
+        "\uE006",
+        "\uE007",
+        "\uE008",
+        "\uE009",
+        "\uE00A",
+        "\uE00B",
+        "\uE00C",
+        "\uE00D",
+        "\uE00E",
+        "\uE00F",
+        "\uE011",
+        "\uE012",
+        "\uE013",
+        "\uE014",
+        "\uE015",
+        "\uE016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "rodoors:gui/health_background.png",
+      "ascent": -19,
+      "height": 18,
+      "chars": ["\uE010"]
+    },
+    {
+      "type": "ttf",
+      "file": "rodoors:negative_spaces.ttf",
+      "shift": [0.0, 0.0],
+      "size": 10.0,
+      "oversample": 1.0
+    }
+  ]
 }

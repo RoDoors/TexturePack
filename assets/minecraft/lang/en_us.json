@@ -7,13 +7,13 @@
 
   "custom.music.lobby.loop": "Dawn of the Doors",
   "custom.music.lobby.end": "Dawn of the Doors Ending",
-  
+
   "custom.music.prerun.elevatorjam": "Elevator Jam",
-  
+
   "custom.music.seek": "Here I Come",
-  
+
   "custom.music.jeff": "Jeff's Jingle",
-  
+
   "custom.music.ending": "Elevator Jammed",
 
   "gui.advancements": "\u00A7fAchievements",
@@ -287,7 +287,6 @@
   "offset.-1024": "\uF80F%s\uF82F",
 
   "offset.-max": "\uF800%s\uF820",
-
 
   "space.max": "\uF820%s",
 
