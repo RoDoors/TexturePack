@@ -4,7 +4,10 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
-	{"predicate": {"custom_model_data":100001}, "model": "rodoors:crucifix"},
-	{"predicate": {"custom_model_data":100111}, "model": "rodoors:life"}
+    {
+      "predicate": { "custom_model_data": 100001 },
+      "model": "rodoors:crucifix"
+    },
+    { "predicate": { "custom_model_data": 100111 }, "model": "rodoors:life" }
   ]
 }

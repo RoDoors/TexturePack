@@ -4,8 +4,17 @@
     "layer0": "minecraft:block/torch"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":100011}, "model": "rodoors:lighter"},
-	{"predicate": {"custom_model_data":100100}, "model": "rodoors:lighter_off"},
-	{"predicate": {"custom_model_data":100101}, "model": "rodoors:flashlight"}
+    {
+      "predicate": { "custom_model_data": 100011 },
+      "model": "rodoors:lighter"
+    },
+    {
+      "predicate": { "custom_model_data": 100100 },
+      "model": "rodoors:lighter_off"
+    },
+    {
+      "predicate": { "custom_model_data": 100101 },
+      "model": "rodoors:flashlight"
+    }
   ]
 }

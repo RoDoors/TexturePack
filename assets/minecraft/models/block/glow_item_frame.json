@@ -1,5 +1,4 @@
 {
-    "parent": "minecraft:block/air",
-    "textures": {
-    }
+  "parent": "minecraft:block/air",
+  "textures": {}
 }

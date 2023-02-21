@@ -1,5 +1,3 @@
 {
-	"textures": [
-		"rodoors:rush_particle"
-	]
+  "textures": ["rodoors:rush_particle"]
 }

@@ -1,10 +1,13 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:item/potion_overlay",
-        "layer1": "minecraft:item/potion"
-    },
-	"overrides": [
-		{"predicate": {"custom_model_data":100010}, "model": "rodoors:vitamins"}
-	]
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potion_overlay",
+    "layer1": "minecraft:item/potion"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 100010 },
+      "model": "rodoors:vitamins"
+    }
+  ]
 }
