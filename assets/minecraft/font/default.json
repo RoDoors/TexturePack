@@ -67,7 +67,6 @@
       "height": 18,
       "chars": ["\uE010"]
     },
-<<<<<<< HEAD
 	{
       "type": "bitmap",
       "file": "rodoors:placeholder.png",
@@ -75,8 +74,6 @@
       "height": 128,
       "chars": ["\uE017"]
     },
-=======
->>>>>>> 3714a913d0f37a2c912ec0f494ae154b1b148ccf
     {
       "type": "ttf",
       "file": "rodoors:negative_spaces.ttf",
