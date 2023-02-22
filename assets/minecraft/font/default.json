@@ -67,7 +67,7 @@
       "height": 18,
       "chars": ["\uE010"]
     },
-	{
+    {
       "type": "bitmap",
       "file": "rodoors:placeholder.png",
       "ascent": 128,
