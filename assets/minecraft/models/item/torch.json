@@ -5,15 +5,15 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 4 },
+      "predicate": { "custom_model_data": 1 },
       "model": "rodoors:lighter"
     },
     {
-      "predicate": { "custom_model_data": 5 },
+      "predicate": { "custom_model_data": 2 },
       "model": "rodoors:lighter_off"
     },
     {
-      "predicate": { "custom_model_data": 6 },
+      "predicate": { "custom_model_data": 3 },
       "model": "rodoors:flashlight"
     }
   ]

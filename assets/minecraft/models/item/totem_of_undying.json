@@ -5,9 +5,12 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 2 },
+      "predicate": { "custom_model_data": 1 },
       "model": "rodoors:crucifix"
     },
-    { "predicate": { "custom_model_data": 3 }, "model": "rodoors:life" }
+    { 
+      "predicate": { "custom_model_data": 2 }, 
+      "model": "rodoors:life" 
+	}
   ]
 }

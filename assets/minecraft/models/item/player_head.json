@@ -2,7 +2,7 @@
   "parent": "minecraft:item/template_skull",
   "overrides": [
     {
-      "predicate": { "custom_model_data": 7 },
+      "predicate": { "custom_model_data": 1 },
       "model": "minecraft:item/skull_rotated_forward"
     }
   ]

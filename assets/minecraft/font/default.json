@@ -30,7 +30,7 @@
     },
     {
       "type": "bitmap",
-      "file": "rodoors:rush.png",
+      "file": "rodoors:entity/rush.png",
       "ascent": 128,
       "height": 128,
       "chars": ["\uE004"]

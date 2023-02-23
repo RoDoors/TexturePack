@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "rodoors:item/lighter",
-    "particle": "rodoors:item/lighter"
+    "0": "rodoors:item/lighter/lighter",
+    "particle": "rodoors:item/lighter/lighter"
   },
   "elements": [
     {
